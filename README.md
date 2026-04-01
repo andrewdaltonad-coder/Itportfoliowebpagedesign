@@ -1,2 +1,2 @@
 # Itportfoliowebpagedesign
-Beginner website aimed at webpage design and learning Thai as a foreign language.
+A beginner website aimed at producing various webpage designs and learning Thai as a foreign language.
